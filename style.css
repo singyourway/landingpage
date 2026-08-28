@@ -1,0 +1,14 @@
+#header {
+  background-color: cornflowerblue;
+  color: cornsilk;
+  font-family: cursive;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 100px;
+}
+
+.link{
+  display: flex;
+  gap: 20px;
+}
