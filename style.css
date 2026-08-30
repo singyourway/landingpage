@@ -12,3 +12,31 @@
   display: flex;
   gap: 20px;
 }
+
+.hero{
+  display: flex;
+  padding: 100px;
+  gap: 100px;
+  background-color: blue;
+  color: cornsilk;
+}
+
+img {
+  min-width: 0;
+  width: 100%;
+  display: block;
+  border: 10px solid gold;
+}
+
+h2{
+  font-size: 60px;
+  margin: 0%;
+}
+
+.p2{
+  font-size: 20px;
+}
+
+button{
+  font-size: 25px;
+}
