@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 #header {
   background-color: cornflowerblue;
   color: cornsilk;
@@ -5,7 +10,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 100px;
+  padding: 15px 100px;
 }
 
 .link{
@@ -30,21 +35,30 @@ img {
 
 h2{
   font-size: 60px;
+  font-family: cursive;
   margin: 0%;
 }
 
 .p2{
   font-size: 20px;
+  margin-bottom: 20px;
+  margin-top: 10px;
 }
 
 button{
   font-size: 25px;
 }
 
+h3{
+  font-size: 50px;
+  text-align: center;
+  font-family: cursive;
+}
+
 .trulylast{
   background-color: cornflowerblue;
-  font-size: 30px;
+  font-size: 35px;
   color: cornsilk;
   text-align: center;
-  padding: 0.5px;
+  padding: 20px;
 }
